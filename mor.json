@@ -54,3 +54,13 @@ vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.17.150.99:80/?type=ws&encryptio
 vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.17.152.254:80/?type=ws&encryption=none&host=vip.yaml7.ggff.net&path=%2F#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%E2%80%94%20%23291
 vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.17.156.229:80/?type=ws&encryption=none&host=vip.yaml7.ggff.net&path=%2F#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%E2%80%94%20%23292
 trojan://humanity@www.calmlunch.com:443?security=tls&type=ws&path=/assignment#[%F0%9F%87%AB%F0%9F%87%B7]%20[tr-no-ws]
+hy2://dongtaiwang.com@163.172.113.118:41915/?insecure=1&sni=www.microsoft.com#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Paris%20%7C%20%5BBL%5D
+hy2://dongtaiwang.com@163.172.113.118:443/?mport=41000-42000&insecure=1&sni=www.microsoft.com#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Paris%20%7C%20%5BBL%5D
+hy2://dongtaiwang.com@163.172.113.118:41484/?insecure=1&sni=www.microsoft.com#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Paris%20%7C%20%5BBL%5D
+hy2://dongtaiwang.com@163.172.113.118:41073/?insecure=1&sni=www.microsoft.com#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Paris%20%7C%20%5BBL%5D
+trojan://humanity@185.18.250.245:443/?type=ws&host=www.calmlunch.com&path=%2Fassignment&security=tls&sni=www.calmlunch.com&allowInsecure=1&fp=random#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Paris%20%7C%20%5BBL%5D
+hy2://github.com%2FAlvin9999-newpac%2Ffanqiang@178.18.147.66:29900/?insecure=1&sni=www.microsoft.com#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D
+vmess://eyJhZGQiOiJ1czEtc3MuZmx5cGFydHMuY24iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InVzMS1zcy5mbHlwYXJ0cy5jbiIsImlkIjoiOTQxYTc5OTktNjhiYy00NWQ4LWJiN2YtYjBhMmYxZDE2ZmU0IiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiIxMDAyMiIsInBzIjoi8J+HuvCfh7ggVW5pdGVkIFN0YXRlcywgU2FudGEgQ2xhcmEgfCBbQkxdIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
+vmess://eyJhZGQiOiI0My4xNjIuMTA1LjMwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJ1czEtc3MuZmx5cGFydHMuY24iLCJpZCI6IjkxYTk4OGRjLTk5ZDUtNGMwZC1hOTk5LWExZDRkZDcyYWQyMSIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiMTAwMjIiLCJwcyI6IvCfh7rwn4e4IFVuaXRlZCBTdGF0ZXMsIFNhbnRhIENsYXJhIHwgW0JMXSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
+hy2://0431fb27-cb95-4bc1-9638-33ef0c02dc3f@51.79.176.33:8262/?insecure=1&sni=www.bing.com#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%7C%20%F0%9F%8C%90%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D
+trojan://7aXwJPnpAJ@yespaintstudio.rav-kraski.ru:50824/?type=tcp&security=tls&alpn=h2%2Chttp%2F1.1#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Orem%20%7C%20%5BBL%5D
