@@ -9,6 +9,5 @@ vless://d61b4e1b-4745-484f-8362-18537825a7af@194.164.217.139:448?security=realit
 trojan://T9qoEuuxUEa9Dk3KxnTWrs6J8ilng9sCIf@103.125.216.68:443?security=tls&type=tcp#1135%20%7C%20%F0%9F%87%AF%F0%9F%87%B5%20Japan
 trojan://T9qoEuuxUEa9Dk3KxnTWrs6J8ilng9sCIf@103.125.216.18:443?security=tls&type=tcp#0720%20%7C%20%F0%9F%87%AF%F0%9F%87%B5%20Japan
 hy2://EsimHy2Game_7xK9mPq2@198.105.112.118:443?obfs=salamander&obfs-password=EsimObfs_9mK2x7&sni=nl.esimpson.org#0109%20%7C%20%F0%9F%87%B3%F0%9F%87%B1%20Netherlands
-vless://05caca6c-9e97-4c0f-8edf-7b88a6e572c5@mypanel.unixzone.us:12068?security=&type=ws&path=/&host=mypanel.unixzone.us&encryption=none#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands,%20Amsterdam%20%7C%20%F0%9F%8C%90%20%7C%20[BL]
 vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@8.6.112.0:443?security=tls&sni=amooaliii.net&type=ws&path=/jdhfyws&host=amooaliii.net&encryption=none#%F0%9F%87%AB%F0%9F%87%B7%20France%20[*CIDR]
 trojan://humanity@216.24.57.1:443?security=tls&sni=www.calmloud.com&allowInsecure=1&type=ws&path=/assignment&host=www.calmloud.com#%F0%9F%87%AB%F0%9F%87%B7%20France%20[*CIDR]
