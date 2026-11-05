@@ -6,3 +6,12 @@ hy2://qtMKhrFAMrVZUfupkc5CFHmRKYtNPSjt@165.154.193.165:443?obfs=salamander&obfs-
 hy2://eBTe6Ax2pUts8oMEWoYVDfnSlHfkLffQ@152.32.254.68:5010?obfs=salamander&obfs-password=7M4RXPFcQyQEGbkxBPfXo4bilMhCW2U9&sni=nas.aizhzo.com#2450%20%7C%20%F0%9F%87%A8%F0%9F%87%B3%20HongKong
 tuic://cd1b0ae0-4010-11ee-953a-f23c9164ca5d:cd1b0ae0-4010-11ee-953a-f23c9164ca5d@104.105.139.38:443?congestion_control=bbr&alpn=h3&sni=de0bc027-teisg0-thtg7i-1lkt0.jp5.hyhuawei.com&udp_relay_mode=native#3064%20%7C%20%F0%9F%87%AF%F0%9F%87%B5%20Japan
 
+hy2://a35c508f-4d5d-4531-842e-6e9d43c762c0@179.253.82.47:4444?sni=fl3.nexfile.net#1300%20%7C%20%F0%9F%87%BA%F0%9F%87%B8%20USA
+ss://2022-blake3-aes-128-gcm:d1rPFOP0VHkK296iGDM%2Feg%3D%3D@23.175.201.177:63691#4259%20%7C%20%F0%9F%87%A8%F0%9F%87%B3%20HongKong
+hy2://a35c508f-4d5d-4531-842e-6e9d43c762c0@31.76.62.148:4444?sni=lv2.nexfile.net#1943%20%7C%20%F0%9F%87%B1%F0%9F%87%BB%20Latvia
+tuic://73bfcc1c-5814-5f2a-b43a-3ef6af011db8:73bfcc1c-5814-5f2a-b43a-3ef6af011db8@54fb07dd-tk7400-toh6wi-jx5r.pccw3.hyhuawei.com:443?congestion_control=bbr&alpn=h3&sni=54fb07dd-tk7400-toh6wi-jx5r.pccw3.hyhuawei.com&udp_relay_mode=native#2172%20%7C%20%F0%9F%8C%90%20Unknown
+tuic://73bfcc1c-5814-5f2a-b43a-3ef6af011db8:73bfcc1c-5814-5f2a-b43a-3ef6af011db8@58.152.81.104:443?congestion_control=bbr&alpn=h3&sni=54fb07dd-tk7400-toh6wi-jx5r.pccw3.hyhuawei.com&udp_relay_mode=native#2041%20%7C%20%F0%9F%87%A8%F0%9F%87%B3%20HongKong
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.114.245:443?security=tls&sni=findconnectwithemployersandbuildprofessionalnetwork.com&fp=chrome&type=tcp#4081%20%7C%20%F0%9F%87%BA%F0%9F%87%B8%20USA
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2R3pmZG1kMmN2eWUxcXlLb3ViOUU3ZVdpak1EUjJsSw==@82.152.132.211:8044#4579%20%7C%20%F0%9F%87%B7%F0%9F%87%B4%20Romania
+tuic://cd1b0ae0-4010-11ee-953a-f23c9164ca5d:cd1b0ae0-4010-11ee-953a-f23c9164ca5d@de0bc027-teisg0-thtg7i-1lkt0.jp5.hyhuawei.com:443?congestion_control=bbr&alpn=h3&sni=de0bc027-teisg0-thtg7i-1lkt0.jp5.hyhuawei.com&udp_relay_mode=native#0395%20%7C%20%F0%9F%8C%90%20Unknown
+hy2://a35c508f-4d5d-4531-842e-6e9d43c762c0@fl3.nexfile.net:4444#3339%20%7C%20%F0%9F%8C%90%20Unknown
